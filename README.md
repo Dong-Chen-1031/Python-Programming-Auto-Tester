@@ -374,8 +374,7 @@ A: 目前超時限制為 5 秒，您可以：
 
 如果您在使用過程中遇到任何問題，或有功能建議，歡迎透過以下方式聯絡：
 
-- 📋 **GitHub Issues**: [建立新的 Issue](https://github.com/your-username/python-auto-tester/issues)
-- 💬 **討論區**: [GitHub Discussions](https://github.com/your-username/python-auto-tester/discussions)
+- 📋 **GitHub Issues**: [建立新的 Issue](https://github.com/Dong-Chen-1031/Python-Programming-Auto-Tester/issues)
 
 ## 🌟 專案特色總結
 

@@ -24,7 +24,7 @@ from rich import box
 # console = Console(markup=False)
 console = Console()
 
-CONFIG = "config.json"
+CONFIG = "E:\Dong\YTP\2023-1\config.json"
 
 class MultiFileTestRunner:
     def __init__(self, config_file=CONFIG):
@@ -333,9 +333,8 @@ def main():
     # 顯示啟動橫幅
     startup_panel = Panel(
         Align.center(
-            "[bold blue]🚀 多檔案程式解題自動測試系統 (修正版)[/bold blue]\n"
+            "[bold blue]🚀 多檔案程式解題自動測試系統[/bold blue]\n"
             "[dim]支援多檔案監控與個別測試配置[/dim]\n"
-            "[green]✓ 修正錯誤訊息顯示\n✓ 修正子目錄執行問題[/green]"
         ),
         border_style="cyan",
         box=box.DOUBLE
