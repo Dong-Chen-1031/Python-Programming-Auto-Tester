@@ -24,7 +24,7 @@ from rich import box
 # console = Console(markup=False)
 console = Console()
 
-CONFIG = "E:\Dong\YTP\2023-1\config.json"
+CONFIG = r"E:\Dong\YTP\2023-1\config.json"
 
 class MultiFileTestRunner:
     def __init__(self, config_file=CONFIG):
